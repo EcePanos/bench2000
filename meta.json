@@ -1,0 +1,8 @@
+[
+  {
+    "prefix": "2000",
+    "index": "artifact",
+    "metrics": [],
+    "props": ["prop"]
+  }
+]
